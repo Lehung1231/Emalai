@@ -1,0 +1,42 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Shop Men",
+      "url": "https://janshop.com.vn/",
+      "description": "Một trang web bán những bộ đòo dành riêng cho nam giới với đầy đủ các mẫu mới và xịn nhất. Mang dáng vẻ lịch lãng và nam tính.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmQ_FQXXCk_XkgilCyZd_dzK8Q8odLojOzvQ&usqp=CAU",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Web nhạc DJ",
+      "url": "https://www.mixcloud.com/discover/nonstop-viet-mix/",
+      "description": "Một trang web nghe nhạc,lưu trữ cũng như buôn bán những bản mix do các DJ hàng đầu cả nước quy tụ. Tạo ra một sân chơi riêng dành cho giới trẻ yêu thích những bản mix,bass mạnh. ",
+      "image": "data:image/png;base64,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",
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "PERMART",
+      "url": "https://www.petmart.vn/",
+      "description": "Một trang web về bán thú cưng vô cùng đáng yêu cũng như đầy đủ giấy tờ hợp pháp về suất xứ các bé iu. Nhanh tay ẵm 1 bé về nhà cho cuộc sống bớt nhàm chán thôi nào các bạn ơi.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwwLHqtUTa2QD5Ru0szYGVKcRZ2bRsJR2I6g&usqp=CAU",
+      "categoryId": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "React"
+    },
+    {
+      "id": 2,
+      "name": "HTML, CSS"
+    },
+    {
+      "id": 3,
+      "name": "JavaScript"
+    }
+  ]
+}
